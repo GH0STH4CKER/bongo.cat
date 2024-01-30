@@ -6,6 +6,9 @@
 </p>
 Hit the bongos like Bongo Cat! https://bongo.cat
 
+To play your Song, use bongocat.py and add notes to it. 
+And the bongocat will play it.
+
 ## About the meme
 Bongo Cat is a meme created by [DitzyFlama](https://twitter.com/DitzyFlama) ([tweet](https://twitter.com/DitzyFlama/status/993487015499853824)) using [StrayRogue](https://twitter.com/StrayRogue)'s [drawing of a cat](https://twitter.com/StrayRogue/status/992994454058381312).
 
